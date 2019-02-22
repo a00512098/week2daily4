@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week 2 Daily 4</string>
+    <string name="new_user">New User</string>
+    <string name="save">Save</string>
+    <string name="fill_fields">Fill all the fields</string>
+    <string name="error_saving">There was an error saving the user!</string>
+    <string name="no_users_created">No users created</string>
+</resources>
